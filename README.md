@@ -4,8 +4,10 @@ Go-Kart for Hack Club's Highway
 [Onshape](https://cad.onshape.com/documents/c2f1552d181a8c0b7c81c604/w/1036deec50656b61e29849aa/e/d8d944300a12fe05290abc8e?renderMode=0&uiState=688ad29296896a335f544a3b)
 
 ## What Is Our Project?
+For our submission, we designed an unceremonious go-kart with a 212cc engine, custom steering, a live rear axle, and a shopping kart frame.
 
 ## Why Did We Make Our Project?
+
 
 
 ## BOM
