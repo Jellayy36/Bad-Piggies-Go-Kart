@@ -1,8 +1,9 @@
 # Time Spent: 50 Hours
 # Week 1 (6/10-6/14)
-## 6/10 (2 Hours)
+## Day 1
 
-## 6/11
+
+## Day 2
 # Week 2 (6/15-6/21)
 
 # Week 3 (6/22-6/28)
