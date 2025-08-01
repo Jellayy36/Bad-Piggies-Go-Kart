@@ -73,22 +73,22 @@
 <img width="3296" height="2547" alt="Main Assembly (1)" src="https://github.com/user-attachments/assets/cee294cd-50f1-4846-bc02-631f8a83b2d3" />
 
 # Week 7 (7/20-7/26)
-## Day 1
+## Day 1 (7/21)
 
-## Day 2
+## Day 2 (7/22)
 
-## Day 3
+## Day 3 (7/24)
 
-## Day 4
+## Day 4 (7/25)
 
-## Day 5
+## Day 5 (7/26)
 <img width="2547" height="3296" alt="Main Assembly (3)" src="https://github.com/user-attachments/assets/93e12a55-4277-49fb-a523-1aefb85feee0" />
 
 # Week 8 (7/27-7/30)
-## Day 1
+## Day 1 (7/27)
 <img width="3296" height="2547" alt="Main Assembly (6)" src="https://github.com/user-attachments/assets/5460f5ed-104a-4029-b8b5-0b72058decbb" />
 <img width="3296" height="2547" alt="Main Assembly (7)" src="https://github.com/user-attachments/assets/f1038431-aeee-4994-b565-81e25c299aff" />
 
-## Day 2
+## Day 2 (7/28)
 
-## Day 3
+## Day 3 (7/30)
