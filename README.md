@@ -7,7 +7,7 @@ Go-Kart for Hack Club's Highway
 For my submission, I designed an unceremonious go-kart with a 212cc engine, custom steering, a live rear axle, and a shopping kart frame.
 
 ## Why Did I Make My Project?
-I decided to create a go-kart 
+The first reason I decided on a go-kart for my project is simply for the breadth of skills I'd have to develop, and knowledge I'd have to acquire. I've never welded despite my dad being experienced in the trade, I had to clue how drivetrains functioned (beyond my albeit thorough FRC experience), and I would like to get more familar with the process of fabrication. My second reason was that it's just been a dream of me and my Dad since I was young to build one, and he'll be the one giving me guidance for the welding aspects of this project. Lastly (and most importantly), I was absolutely obssessed with the mobile game Bad Piggies when I was younger. Let's see how bad I've been.
 
 
 ## BOM
