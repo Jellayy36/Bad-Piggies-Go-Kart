@@ -1,8 +1,9 @@
 # Total Time Spent: 53 Hours
 # Week 1 (6/10-6/14)
 ## Day 1 (6/10)
-hi how are you
+Originally me and my friends had grand dreams a go-kart fleet, but as the process went on they eventually realized it just wouldn't be feasible for them to complete the project this summer. Never the less, our planning phase began with us all in a Discord call bouncing ideas around regarding the design constraints and criteria. With my background as a Bad Piggies fanatic, it was immediately clear what theme I wanted to go with. 
 <img width="1920" height="1080" alt="thomas-karlsson-vehicles-parts-02" src="https://github.com/user-attachments/assets/76cc3d80-477e-4fdb-8713-5f90b779944d" />
+The idea was simple: "What is the bare minimum neccesary to get our wheels to spin?" We had to ensure we didn't compromise on safety or practicality, and settled on the 212 CC, 6.5 HP Predator engine from Harbor Freight. It was cheap, reliable, and just fast enough to not risk injury. I concluded the first day with a loose theme in mind and the first item locked in for our BOM.
 <img width="794" height="637" alt="Screenshot 2025-07-31 201248" src="https://github.com/user-attachments/assets/f5e7fcbb-bb26-4c9f-b1d8-fbb1ca768072" />
 
 ## Day 2 (6/11)
