@@ -130,17 +130,24 @@ I went with #35 chain because I was already very familiar with it.
 Now's where things start to get complicated. I had never designed anything close to steering from scratch, so I followed a similar method to the rear axle and just spent the first day researching about how the tie rods, spindles, steering column, etc. all interact.
 
 ## Day 2 (7/24)
+Just when I thought I had a good grasp on how I would go about designing the steering for my go-kart, ChatGPT brought up an interesting gimmick I had never heard of. It's called "Ackermann Geometry". Basically, it states that the spindle arms should be pointing directly towards the center of the rear axle. If that is done correctly, when you turn, the inside wheel will be at a sharper angle than the outside one. Originally I thought you would want them to be parallel, but this actually makes sense, because the inside wheel has a smaller circle it has to trace to complete the turn. The unfortunate part, is that the spindles I selected have arms at a fixed angle, meaning that I couldn't adjust them as needed. To improvise, I decided I could create little brackets which attach to the spindle arm, connecting the tie rods and the spindle at just the right point to simulate the spindle arms being pointed inward.
 
 ## Day 3 (7/25)
+Today was when I started to CAD the steering. Once again, I used Amazon reference images to design the spindles, tie rods, steering column bearing, and steering wheel.
 
 ## Day 4 (7/26)
+Finished up the steering CAD today. Figuring out the location of the steering wheel was difficult, but I believe I found a decent place which still has working steering geometry. The little plate at the end of the steering column will have to be made myself, but I've made worse with less tools before for FRC.
+
 <img width="2547" height="3296" alt="Main Assembly (3)" src="https://github.com/user-attachments/assets/93e12a55-4277-49fb-a523-1aefb85feee0" />
 
 # Week 8 (7/27-7/30)
 ## Day 1 (7/27)
+We're in the final stretch now. Today I finished up the pedals and spoiler, and with that this was the last day I actually spent cadding. I also added the little human model and made sure that a reasonably sized person could fit without getting smushed. It's definitely a tight fit, but you can't ask for much when your chassis is a shopping cart. The only things I left out were the throttle and brake cables, as well as the brake drum itself. I've made sure that there is ample space on the rear axle no matter where I want to mount it, and cadding the cables would just be unnecessary. One thing to note is that a slot can be cut out in the front of the cart so that the pedals can be pushed further, and depending on where you make that slot you can set the mechanical stop for the pedals.
 <img width="3296" height="2547" alt="Main Assembly (6)" src="https://github.com/user-attachments/assets/5460f5ed-104a-4029-b8b5-0b72058decbb" />
 <img width="3296" height="2547" alt="Main Assembly (7)" src="https://github.com/user-attachments/assets/f1038431-aeee-4994-b565-81e25c299aff" />
 
 ## Day 2 (7/28)
+With the CAD complete, today I just focused on calculating exactly how much metal I need and finding where I would source it. I settled on a place local to the Raleigh area, Metal Supermarkets. With these specifics in place, I finally have a complete BOM and accurate price estimate.
 
 ## Day 3 (7/30)
+Today was mostly spent organizing all of my files, journal entries, and work for submission. As a bit of budget analysis: what started as an optimistic $350 project quickly grew to nearly a thousand dollars. However, with $350 of that still being covered through this incredible program, I will be fortunte enough to just barely fund the rest of this project myself. Keep in mind however, this is with ample spare materials. Things will go wrong, and things will have to be refabricated. That's the point of this whole project, and I've budgeted that in. In hindsight, I had to make quite a few sacrifices to the theme of "Bad Piggies" to ensure that this thing stays practical and safe. But the advantage of this, is that once I have a working go-kart I can slowly start integrating that jankiness back in instead of doing it all at the start and hoping it works. It allows for continual iteration and... "improvements". Just you wait, pots and pans are coming 😼. Once again, thank you so much to the folks at Hackclub for making this possible, and I'll see you on the highway 🚗💨.
