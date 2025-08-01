@@ -16,7 +16,7 @@ For day two, I mainly focused on helping my friends settle on a theme of their o
 ![IMG_8208](https://github.com/user-attachments/assets/031314cf-9526-49dd-a707-2f76e1bb168b)
 
 ## Day 3 (6/14)
-Day three marked the creation of both the OnShape document I used to create my go-kart, as well a target budget each of us wanted to hit with our karts. Since this is considered an advanced custom project, we ignorantly thought that the $350 grant would be enough to cover nearly all expenses for each project. We later realized this was far from realistic (which considerably contributed to the lack of feasiblity for my friends), but I've commited to covering all expenses beyond the $350 grant.
+Day three marked the creation of both the Onshape document I used to create my go-kart, as well a target budget each of us wanted to hit with our karts. Since this is considered an advanced custom project, we ignorantly thought that the $350 grant would be enough to cover nearly all expenses for each project. We later realized this was far from realistic (which considerably contributed to the lack of feasiblity for my friends), but I've commited to covering all expenses beyond the $350 grant.
 
 # Week 2 (6/15-6/21)
 ## Day 1 (6/16)
@@ -80,43 +80,60 @@ Today's work was brief, just finalizing what steering wheel I'd be going with fo
 <img width="1517" height="836" alt="Screenshot 2025-07-31 202906" src="https://github.com/user-attachments/assets/452b18d8-01ee-4293-8dbd-9bf279ab205e" />
 
 ## Day 5 (7/3)
-Today was a big one for the BOM; I decided against going with a steering kit and instead designing it myself. It proved more expensive and complicated in the long run, but it'll likely result in a higher quality experience and greatly aided my ability to CAD an accurate model of what the go-kart will actually look like. The screenshot below also features specific quanitites and sizes of framing materials, but at this phase I only had placeholders and estimates (which were surprisingly close). 
+Today was a big one for the BOM; I decided against going with a steering kit and instead designing it myself. It proved more expensive and complicated in the long run, but it'll likely result in a higher quality experience and greatly aided my ability to CAD an accurate model of what the go-kart will actually look like. I also found parts for the rear axle assembly, spindles, and hubs for the rear wheels. The screenshot below also features specific quanitites and sizes of framing materials, but at this phase I only had placeholders and estimates (which were surprisingly close). 
 
 <img width="1018" height="857" alt="Screenshot 2025-07-30 233519" src="https://github.com/user-attachments/assets/d767dd8d-1b0f-45d3-90b3-d9d883eb2c70" />
 
 # Week 5 (7/6-7/12)
 ## Day 1 (7/9)
+I started the day off by searching for a 3D model of a shopping cart similar to one I'll be using. I figured I'd save myself days of work trying to model that in Onshape. Here is a link to the GrabCAD I got the file from: https://grabcad.com/library/shopping-cart--2
+
+With a model for the shopping cart as a reference, I got started cadding the frame. I went with 1" x 1" mild steel square tubing since it's so easy to weld and is structurally sound. The design I made is likely very overengineered, so if we need to reduce the tubing used there is plenty of places to choose from. Additionally, the exact dimensions of things would change very slightly once we get our hands on the actual cart to take measurements, but I made sure to leave enough margins in the design to accompany many different size carts.
+
 <img width="3296" height="2547" alt="Main" src="https://github.com/user-attachments/assets/abc93acf-b3fe-48e6-8abe-6d034ea628fc" />
 
 ## Day 2 (7/10)
+Originally I had the engine mounting tubes centered in the frame, but after importing an engine model I found online I realized that the engine was offset from the mounting holes. I move the tubes over slightly to make up for that discrepancy, and got the engine lined up properly with the frame. Here is a link to the GrabCAD I got the engine from: https://grabcad.com/library/custom-drift-trike-incomplete-1
+
 <img width="3296" height="2547" alt="212" src="https://github.com/user-attachments/assets/5830ce18-eeef-4bec-8344-104c167978a5" />
 
 ## Day 3 (7/11)
+Today was when I finished up cadding the base frame, with the shopping cart sitting on top nicely as seen below.
 <img width="3296" height="2547" alt="Main (1)" src="https://github.com/user-attachments/assets/b7d7684c-64f5-4c81-9b68-d5bfeb687720" />
 
 # Week 6 (7/13-7/19)
 ## Day 1 (7/14)
+I spent all of today just researching how a rear axle should be done. Here was where the nitty-gritty of mechanisms I wasn't familiar with began to creep in, so I had to make sure I was well informed before designing. I watched Youtube videos, talked to ChatGPT, read forums, etc. The main components were the axle itself, bearings to attach it to the frame, wheel hubs on either end, a band brake, and the sprocket + sprocket hub that connects it to the engine.
 
 ## Day 2 (7/15)
+After my day of research, I confirmed that the parts I selected previously would suffice. The only change I made was switching from a 53 tooth split sprocket to a 54 tooth split sprocket. Honestly this was only done so that both sides would be the same, at no increase to price and minimal losses to top speed.
 
 ## Day 3 (7/17)
+With the rear axle planning complete, it was time to start cadding. And wouldn't you know, it's my favorite part of this whole project: trying to CAD parts off of vendor reference images! Today specifically, I started working on the sprocket and hub CAD. This was made much easier thanks to the "Sprocket" featurescript I have grown accustomed to for FRC.
 
 ## Day 4 (7/18)
+Today I finished the CAD for the sprocket (red) and the hub (blue):
+
 <img width="3296" height="2547" alt="Sprocket + Hub" src="https://github.com/user-attachments/assets/d9372251-58ab-4555-9d05-9b00b4cd05a0" />
 
+I also modeled the bearing blocks off of (you guessed it) Amazon product images. Luckily they provided many of the needed dimensions, so it wasn't so bad.
+
 ## Day 5 (7/19)
+Today I worked on the centrifugal clutch, chain, tires, and tire hub CAD. Once all these parts were done I was able to put it all together in the assembly:
+
 <img width="3296" height="2547" alt="Main Assembly (1)" src="https://github.com/user-attachments/assets/cee294cd-50f1-4846-bc02-631f8a83b2d3" />
+
+I went with #35 chain because I was already very familiar with it.
 
 # Week 7 (7/20-7/26)
 ## Day 1 (7/21)
+Now's where things start to get complicated. I had never designed anything close to steering from scratch, so I followed a similar method to the rear axle and just spent the first day researching about how the tie rods, spindles, steering column, etc. all interact.
 
-## Day 2 (7/22)
+## Day 2 (7/24)
 
-## Day 3 (7/24)
+## Day 3 (7/25)
 
-## Day 4 (7/25)
-
-## Day 5 (7/26)
+## Day 4 (7/26)
 <img width="2547" height="3296" alt="Main Assembly (3)" src="https://github.com/user-attachments/assets/93e12a55-4277-49fb-a523-1aefb85feee0" />
 
 # Week 8 (7/27-7/30)
