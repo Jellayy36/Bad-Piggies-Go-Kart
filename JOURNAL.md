@@ -1,6 +1,7 @@
 # Total Time Spent: 53 Hours
 # Week 1 (6/10-6/14)
 ## Day 1 (6/10)
+hi how are you
 <img width="1920" height="1080" alt="thomas-karlsson-vehicles-parts-02" src="https://github.com/user-attachments/assets/76cc3d80-477e-4fdb-8713-5f90b779944d" />
 <img width="794" height="637" alt="Screenshot 2025-07-31 201248" src="https://github.com/user-attachments/assets/f5e7fcbb-bb26-4c9f-b1d8-fbb1ca768072" />
 
